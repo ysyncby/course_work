@@ -1,0 +1,10 @@
+beagle
+boxer
+french bulldog
+german shepherd
+german short haired pointer
+golden retriver
+labrador retriver
+rottweiler
+siberian husky
+yorkshire terrier
